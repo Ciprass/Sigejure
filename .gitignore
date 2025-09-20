@@ -1,0 +1,17 @@
+# iii
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Actually work
+.vscode/
+/bin/
+/build/
+
+*.bat
+
+.env
+.env.local
+.env.production
+.secret
